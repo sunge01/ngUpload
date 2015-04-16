@@ -1,0 +1,5 @@
+GROUP-NAME:Default Group
+PAIR-NAME:Pair 1
+GET /1
+Content-Type:application/json;charset=UTF8
+
